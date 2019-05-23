@@ -1,0 +1,43 @@
+{
+    "appstore.app.description": "",
+    "index.untranslated_yet": "",
+    "index.placeholder": "L'éditeur a validations qui sont appliqués pour chaque chaîne de caractères qui est enregistré. Essayez de traduire cette chaîne sans le %s espace réservé et vous verrez.",
+    "appstore.app.title": "",
+    "appstore.app.keywords": "",
+    "index.blabla": "",
+    "main.cool": "",
+    "app.login.pass": "",
+    "appstore.app.whatsnew": "",
+    "app.users.active": {
+        "one": "",
+        "other": ""
+    },
+    "main.country": "Sélectionnez un pays",
+    "index.welcome": "",
+    "name": "",
+    "version": "",
+    "description": "",
+    "main": "",
+    "directories": {
+        "test": ""
+    },
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "keywords": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "author": "",
+    "license": "",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "ghghghgh"
+}
